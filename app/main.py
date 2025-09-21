@@ -26,7 +26,7 @@ def show_add_form():
     
 
 def main():
-    st.header("To Do App")
+    st.header("TO DO APP")
 
     show_add_form()
 
