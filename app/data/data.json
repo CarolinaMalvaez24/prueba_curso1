@@ -1,18 +1,25 @@
 {
     "tasks": [
         {
-            "id": 0,
+            "id": 1,
             "title": "Comprar la despensa",
-            "desc": "Comprar leche y huevo",
-            "status": "Pending",
-            "timestamp": ""
+            "description": "comprar leche y huevos",
+            "status": "Completed",
+            "timestamp": "2025-09-18"
         },
         {
             "id": 2,
-            "title": "hacer la tarea",
-            "description": "terminar el cuadro comparativo etc",
+            "title": "Hacer la tarea",
+            "description": "Terminar el cuadro comparativo, etc",
             "status": "Pending",
             "timestamp": "2025-09-19"
+        },
+        {
+            "id": 3,
+            "title": "Taller de git",
+            "description": "Terminar ya el taller",
+            "status": "In Progress",
+            "timestamp": "2025-09-22"
         }
     ]
 }
