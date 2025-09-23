@@ -11,15 +11,22 @@
             "id": 2,
             "title": "Hacer la tarea",
             "description": "Terminar el cuadro comparativo, etc",
-            "status": "Pending",
+            "status": "Completed",
             "timestamp": "2025-09-19"
         },
         {
             "id": 3,
             "title": "Taller de git",
-            "description": "Terminar ya el taller",
+            "description": "Terminar ya el taller 2",
             "status": "In Progress",
             "timestamp": "2025-09-22"
+        },
+        {
+            "id": 4,
+            "title": "tarea",
+            "description": "marco teorico",
+            "status": "Pending",
+            "timestamp": ""
         }
     ]
 }
